@@ -1,4 +1,6 @@
-rugit
+Rugit
 =====
 
-Git repo generator
+Git repository generator.
+
+Master branch, many feature branches.

@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    randexp (0.1.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  randexp
