@@ -1,0 +1,4 @@
+rugit
+=====
+
+Git repo generator
